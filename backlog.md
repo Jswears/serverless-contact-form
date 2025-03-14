@@ -1,0 +1,1 @@
+- [ ] Add email to DynamoDB Table for backup
